@@ -1,16 +1,17 @@
-# Public Transport:  Data-Driven Insights on Commuter Choices
-## Objective
+# Public Transport:  Data-Driven Insights on Commuter Choices 🚎🚗🚌🚉
+Surveyed over 100 participants in Sumgait and Khirdalan and built a Conditional Logit Discrete Choice Model. 
+## Objective: 
 
 Understand the transport choices and behaviors of residents in Sumgait and Khirdalan to inform potential public transit improvements.
 
 ##  Methodology
 1. Data Sourcing & Ownership
 
-Designed and administered a custom survey.
+2. Designed and administered a custom survey.
 
-Collected responses from 100+ participants.
+3. Collected responses from 100+ participants.
 
-Personally managed data collection, cleaning, and preparation from scratch.
+4. Personally managed data collection, cleaning, and preparation from scratch.
 
 ## Ad-hoc Analysis
 
