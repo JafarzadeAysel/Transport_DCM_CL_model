@@ -1,5 +1,5 @@
 # Public Transport:  Data-Driven Insights on Commuter Choices 🚎🚗🚌🚉
-Surveyed over 100 participants in Sumgait and Khirdalan and built a Conditional Logit Discrete Choice Model. 
+Surveyed over 100 participants in Sumgait and Khirdalan and built a Multinomial Logit Discrete Choice Model. 
 ## Objective: 
 
 Understand the transport choices and behaviors of residents in Sumgait and Khirdalan to inform potential public transit improvements.
@@ -21,19 +21,19 @@ Identified patterns in preferred destinations, metro connectivity needs, and tra
 
 ## Modeling
 
-Built a Conditional Logit Model to analyze the factors influencing mode choice.
+Built a Multinomial Logit Model to analyze the factors influencing mode choice.
 
 Tested variables such as cost, waiting time, walking time, crowdedness, age, and location.
 
 ## Results & Strategic Insights
 Key Findings:
-- Destination demand is concentrated on 28 May, Yasamal, Nəsimi, and Xətai for commuting purposes.
+- Destination demand is concentrated on 28 May, Yasamal, Nasimi, and Khatai for commuting purposes.
 
-- Xırdalan residents want more direct metro connections without transfers, especially to Yasamal.
+- Khirdalan residents want more direct metro connections without transfers, especially to Yasamal.
 
-- Sumqayıt residents seek connections beyond the main rail link, with requests for more comfortable and direct routes to central and peripheral districts.
+- Sumgait residents seek connections beyond the main rail link, with requests for more comfortable and direct routes to central and peripheral districts.
 
-- Signs that Sumqayıt residents may prefer taxis and older respondents slightly prefer the fast train less (not statistically significant due to sample size).
+- The negative coefficient indicates that personal cars are less preferred than buses for work trips, likely due to traffic and parking challenges. While public transport options like buses with dedicated lanes and fast trains are faster. But the effect is not statistically significant and may be due to chance.
 
 
 
@@ -43,6 +43,6 @@ Key Findings:
 
 - Data cleaning & preparation
 
-- Advanced statistical modeling (Conditional Logit)
+- Advanced statistical modeling (Multinomial Logit)
 
 - Insight synthesis & business communication
